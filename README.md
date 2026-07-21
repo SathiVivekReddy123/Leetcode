@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
