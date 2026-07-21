@@ -50,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3945-digit-frequency-score](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3945-digit-frequency-score](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 <!---LeetCode Topics End-->
