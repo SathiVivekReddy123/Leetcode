@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [3945-digit-frequency-score](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
