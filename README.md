@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 ## Matrix
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [3945-digit-frequency-score](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Prefix Sum
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
