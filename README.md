@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
