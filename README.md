@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
