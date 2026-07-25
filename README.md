@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3945-digit-frequency-score](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
