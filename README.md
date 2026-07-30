@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Backtracking
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3945-digit-frequency-score](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
