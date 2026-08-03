@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0838-push-dominoes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0838-push-dominoes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
