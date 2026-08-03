@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
