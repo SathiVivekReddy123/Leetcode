@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Prefix Sum
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
