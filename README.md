@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
