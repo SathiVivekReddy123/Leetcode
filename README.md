@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0481-magical-string/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0838-push-dominoes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -213,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
