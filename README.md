@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
