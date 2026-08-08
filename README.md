@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
