@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0838-push-dominoes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [1023-camelcase-matching](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1023-camelcase-matching](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1089-duplicate-zeros](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1023-camelcase-matching](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1089-duplicate-zeros](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1023-camelcase-matching](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1023-camelcase-matching](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 <!---LeetCode Topics End-->
