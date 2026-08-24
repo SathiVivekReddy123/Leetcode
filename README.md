@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2105-watering-plants-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2105-watering-plants-ii/) | Medium |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Greedy
