@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0867-transpose-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0867-transpose-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Simulation
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2105-watering-plants-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2105-watering-plants-ii/) | Medium |
