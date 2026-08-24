@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Array
 | Problem Name | Difficulty |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
