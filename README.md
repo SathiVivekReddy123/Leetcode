@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0136-single-number/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2105-watering-plants-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2105-watering-plants-ii/) | Medium |
