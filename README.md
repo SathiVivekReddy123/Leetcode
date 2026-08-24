@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
@@ -328,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
