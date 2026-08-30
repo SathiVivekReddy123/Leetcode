@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2105-watering-plants-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2105-watering-plants-ii/) | Medium |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1861-rotating-the-box](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2105-watering-plants-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
