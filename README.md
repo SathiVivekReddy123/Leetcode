@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0735-asteroid-collision](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0867-transpose-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0289-game-of-life](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
+| [0735-asteroid-collision](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
