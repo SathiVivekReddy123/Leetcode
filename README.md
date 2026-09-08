@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1023-camelcase-matching](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1089-duplicate-zeros](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
