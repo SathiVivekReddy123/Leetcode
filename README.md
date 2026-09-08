@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3870-count-commas-in-range](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
