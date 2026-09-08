@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1023-camelcase-matching](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
