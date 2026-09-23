@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1706-where-will-the-ball-fall/) | Medium |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1094-car-pooling](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1094-car-pooling/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Number Theory
