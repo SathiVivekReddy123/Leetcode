@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0068-text-justification](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0068-text-justification/) | Hard |
+| [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0481-magical-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0481-magical-string/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
+| [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0068-text-justification](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0289-game-of-life](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -417,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
