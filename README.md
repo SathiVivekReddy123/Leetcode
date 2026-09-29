@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
+| [0077-combinations](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
