@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
+| [0078-subsets](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0260-single-number-iii/) | Medium |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0068-text-justification](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0136-single-number/) | Easy |
