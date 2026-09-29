@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2906-construct-product-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1861-rotating-the-box](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2906-construct-product-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
