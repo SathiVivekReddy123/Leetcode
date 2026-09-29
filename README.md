@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0068-text-justification](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0068-text-justification/) | Hard |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
