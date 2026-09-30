@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0260-single-number-iii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0289-game-of-life](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0475-heaters](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0498-diagonal-traverse](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0475-heaters](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0475-heaters](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0611-valid-triangle-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
