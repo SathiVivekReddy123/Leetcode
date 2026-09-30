@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0475-heaters](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0475-heaters/) | Medium |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
