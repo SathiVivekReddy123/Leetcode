@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0475-heaters](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0475-heaters/) | Medium |
 | [0481-magical-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0481-magical-string/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0202-happy-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0929-unique-email-addresses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0202-happy-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -466,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0069-sqrtx/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
