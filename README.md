@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
