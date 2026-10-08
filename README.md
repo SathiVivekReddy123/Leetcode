@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2105-watering-plants-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2105-watering-plants-ii/) | Medium |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -446,10 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
