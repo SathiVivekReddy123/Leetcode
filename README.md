@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0784-letter-case-permutation](https://github.com/SathiVivekReddy123/Leetcode/tree/master/0784-letter-case-permutation) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Array
 | Problem Name | Difficulty |
