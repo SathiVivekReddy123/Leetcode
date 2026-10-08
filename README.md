@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0068-text-justification](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0079-word-search](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0338-counting-bits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0838-push-dominoes](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0838-push-dominoes/) | Medium |
 ## String Matching
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
