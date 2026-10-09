@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1717-maximum-score-from-removing-substrings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1764-form-array-by-concatenating-subarrays-of-another-array/) | Medium |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1717-maximum-score-from-removing-substrings](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 ## Enumeration
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SathiVivekReddy123/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
