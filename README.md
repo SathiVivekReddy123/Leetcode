@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2906-construct-product-matrix](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
