@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3355-zero-array-transformation-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SathiVivekReddy123/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/SathiVivekReddy123/Leetcode/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/SathiVivekReddy123/Leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
